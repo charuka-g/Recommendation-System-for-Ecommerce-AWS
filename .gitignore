@@ -12,3 +12,5 @@ __pycache__/
 *.pyzzz
 *.pywzzz
 Two-Stage-Recommendation-System.ipynb
+Two-Stage-Recommendation-System*
+.ipynb_checkpoints*
