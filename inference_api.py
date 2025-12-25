@@ -11,6 +11,10 @@ import pickle
 import numpy as np
 import pandas as pd
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Initialize FastAPI app
 app = FastAPI(title="Two-Stage Recommendation System API")
