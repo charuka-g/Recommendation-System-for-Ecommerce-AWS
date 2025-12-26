@@ -6,6 +6,8 @@ A production-ready two-stage recommendation system built on AWS SageMaker:
 
 ## Architecture
 
+![Two-Stage Recommendation System Architecture](recommedaion_system_aws.drawio.png)
+
 ```
 User Request
     ↓

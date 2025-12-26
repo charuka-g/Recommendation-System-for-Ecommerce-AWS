@@ -19,3 +19,5 @@ Two-Stage-Recommendation-System*
 *.json
 xgb_model_info.json
 mf_model_artifacts.pkl
+.gitignore
+.vscode/
