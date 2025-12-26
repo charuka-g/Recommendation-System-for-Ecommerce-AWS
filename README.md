@@ -137,14 +137,6 @@ Run `03-Glue-Feature-Store-Processing.ipynb` if you need to process raw data for
 - Creates User and Item Feature Groups
 - Handles event time for point-in-time accuracy
 
-### Step 5: Testing (Optional)
-
-Run `03-Inference-Pipeline.ipynb` for development/testing:
-- Loads trained models from artifacts
-- Tests the complete recommendation pipeline
-- Useful for debugging and validation
-
-**Note**: This notebook is optional. For production, use `inference_api.py`.
 
 ## Production Deployment
 
